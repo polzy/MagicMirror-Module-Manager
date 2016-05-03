@@ -1,0 +1,90 @@
+{
+  "MMM-Wunderlist": {
+      "version": 1.0,
+      "author": "Paul-Vincent Roll",
+      "description_short": "Displays Wunderlist tasks.",
+      "description_long": "Displays Wunderlist tasks on your mirror. You can use multiple instances for different lists.",
+      "git": "https://github.com/paviro/MMM-Wunderlist.git",
+      "issues": "https://github.com/paviro/MMM-Wunderlist/issues"
+    },
+   "MMM-Facial-Recognition": {
+       "version": 1.0,
+       "author": "Paul-Vincent Roll",
+       "description_short": "Facial recognition and module swapping based on the current user.",
+       "description_long": "Facial recognition and module swapping based on the current user.",
+       "git": "https://github.com/paviro/MMM-Facial-Recognition.git",
+       "issues": "https://github.com/paviro/MMM-Facial-Recognition/issues"
+     },
+   "MMM-FRITZ-Box-Callmonitor": {
+       "version": 1.0,
+       "author": "Paul-Vincent Roll",
+       "description_short": "Callmonitor for FRITZ!Box users alerting them about incoming calls.",
+       "description_long": "Callmonitor for FRITZ!Box users alerting them about incoming calls. You can specify an address book so that numbers are converted to names.",
+       "git": "https://github.com/paviro/MMM-FRITZ-Box-Callmonitor.git",
+       "issues": "https://github.com/paviro/MMM-FRITZ-Box-Callmonitor/issues"
+     },
+   "MMM-wordnik": {
+       "version": 1.0,
+       "author": "Sam Vendittelli",
+       "description_short": "Displays the word of the day, its definition, and origin.",
+       "description_long": "Displays the word of the day, its definition, and origin. Uses the wordnik API.",
+       "git": "https://github.com/SVendittelli/MMM-wordnik.git",
+       "issues": "https://github.com/SVendittelli/MMM-wordnik/issues"
+     },
+   "mmm-systemtemperature": {
+       "version": 1.0,
+       "author": "Michael Teeuw",
+       "description_short": "Display the temperature of your Raspberry Pi on your Magic Mirror.",
+       "description_long": "Display the temperature of your Raspberry Pi on your Magic Mirror.",
+       "git": "https://github.com/MichMich/mmm-systemtemperature.git",
+       "issues": "https://github.com/MichMich/mmm-systemtemperature/issues"
+     },
+   "MagicMirror-Netatmo-Module": {
+       "version": 1.0,
+       "author": "CFenner",
+       "description_short": "Display informations about your rooms climate from your Netatmo system.",
+       "description_long": "Display informations about your rooms climate from your Netatmo system.",
+       "git": "https://github.com/CFenner/MagicMirror-Netatmo-Module.git",
+       "issues": "https://github.com/CFenner/MagicMirror-Netatmo-Module/issues"
+     },
+    "MagicMirror-LocalTransport-Module": {
+       "version": 1.0,
+       "author": "CFenner",
+       "description_short": "This module display the next local transport connection between an origin and destination.",
+       "description_long": "This module display the next local transport connection between an origin and destination.",
+       "git": "https://github.com/CFenner/MagicMirror-LocalTransport-Module.git",
+       "issues": "https://github.com/CFenner/MagicMirror-LocalTransport-Module/issues"
+     },
+    "MM-Scrobbler": {
+       "version": 1.0,
+       "author": "PtrBld",
+       "description_short": "It displays your currently playing music. To use this module you need to have a Last.fm account and scrobble your music.",
+       "description_long": "It displays your currently playing music. To use this module you need to have a Last.fm account and scrobble your music.",
+       "git": "https://github.com/PtrBld/MMM-Scrobbler.git",
+       "issues": "https://github.com/PtrBld/MMM-Scrobbler/issues"
+     },
+    "MagicMirror-Ping-Module": {
+       "version": 1.0,
+       "author": "CFenner",
+       "description_short": "Module to check the network connection on the MagicMirror.",
+       "description_long": "Module to check the network connection on the MagicMirror.",
+       "git": "https://github.com/CFenner/MagicMirror-Ping-Module.git",
+       "issues": "https://github.com/CFenner/MagicMirror-Ping-Module/issues"
+     },
+    "MagicMirror-Sonos-Module": {
+       "version": 1.0,
+       "author": "CFenner",
+       "description_short": "This is an adaption Sonos module.",
+       "description_long": "This is an adaption Sonos module.",
+       "git": "https://github.com/CFenner/MagicMirror-Sonos-Module.git",
+       "issues": "https://github.com/CFenner/MagicMirror-Sonos-Module/issues"
+     },
+    "MMM-Traffic": {
+       "version": 1.0,
+       "author": "SamLewis0602",
+       "description_short": "The module uses the Google Maps Directions API to get commute time.",
+       "description_long": "It can display commute time between two given addresses by car, walking, bicycling, or transit. The module uses the Google Maps Directions API to get commute time, which factors in traffic information.",
+       "git": "https://github.com/SamLewis0602/MMM-Traffic.git",
+       "https://github.com/SamLewis0602/MMM-Traffic/issues"
+     }
+}
