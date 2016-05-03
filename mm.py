@@ -23,7 +23,7 @@ def get_modules():
 		exit(0)
 		
 def update():
-	url = 'http://viroentertainment.com/data.json'
+	url = '/data.json'
 	resp = requests.get(url=url)
 	data = json.loads(resp.text)
 	with open(sys.path[0] + '/.modules.json', 'w') as outfile:
